@@ -1,0 +1,19 @@
+nav{
+    background-color: pink;
+    height: 0.5in;
+    width: 25in;
+    padding: auto;
+    vertical-align: left;
+}
+
+div {
+    text-align:center;
+}
+.odd{
+    background-color: yellow;
+    width: 60in;
+}
+.even{
+    background-color: maroon;
+    color: antiquewhite;
+}
